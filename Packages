@@ -20,7 +20,7 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.bisonsim.fakeiosactiveiccid_1.5_iphoneos-arm.deb
 Size: 1516
-MD5sum: 97ed1d3dd2b491a8ab75053879e2c43d19a912ab
+MD5sum: 49ac82cdcb9333666c63239bf3d393a8
 Description: Giúp Fake IOS để Active được ICCID thần thánh
 Name: Fake IOS 13.6 Active ICCID 
 Author: Bisonsim <appleservice.truongphat@gmail.com>
