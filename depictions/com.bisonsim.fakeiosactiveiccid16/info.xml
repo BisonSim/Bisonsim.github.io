@@ -1,10 +1,10 @@
 <package>
-	<id>com.bisonsim.fakeiosactiveiccid15</id>
-	<name>com.bisonsim.fakeiosactiveiccid15</name>
-	<version>1.5</version>
+	<id>com.bisonsim.fakeiosactiveiccid16</id>
+	<name>com.bisonsim.fakeiosactiveiccid16</name>
+	<version>1.6</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.6</maxiOS>
+			<maxiOS>14.2</maxiOS>
 			<otherVersions>supported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
