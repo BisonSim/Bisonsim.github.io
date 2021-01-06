@@ -12,16 +12,16 @@ Name: Filza
 Author: TIGI Software
 Depiction: https://bisonsim.github.io/index.html
 
-Package: com.bisonsim.fakeiosactiveiccid16
-Version: 1.6
+Package: com.bisonsim.fakeiosactiveiccid17
+Version: 1.7
 Section: Tweaks
 Maintainer: Bisonsim <appleservice.truongphat@gmail.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.bisonsim.fakeiosactiveiccid_1.6_iphoneos-arm.deb
-Size: 1552
-MD5sum: 1f871b97695a1da1f83bda3129a78902
+Filename: ./debs/com.bisonsim.fakeiosactiveiccid_1.7_iphoneos-arm.deb
+Size: 1554
+MD5sum: 5b8ff10c03808e90a43f8cf43f0c0102
 Description: Giúp Fake IOS để Active được ICCID thần thánh
-Name: Fake IOS 14.2 Active ICCID 
+Name: Fake IOS 14.4 Active ICCID 
 Author: Bisonsim <appleservice.truongphat@gmail.com>
 Depiction: https://bisonsim.github.io/index.html
